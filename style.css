@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Dosis:600');
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+*{margin:0;padding:0;}
+.wrapper{width:600px;margin:15px auto;background:url(images/background.png);padding-bottom: 34px;}
+body{font-family: 'Lobster', cursive;background:#D9C296;}
+.header{text-align:center;}
+.header h1{color:#ca171c;font-size:113px;overflow:hidden;text-shadow:3px 3px 3px #3D3D3D;}
+.header img{}
+.content{background-color:#CA161C;border-radius:10px;overflow:hidden;}
+.{}
+.content h2 {
+	color: #fff;
+	font-size: 48px;
+	text-align: center;
+    text-shadow:3px 3px 3px #3D3D3D;
+	
+}
+.content {
+	background: url(images/top.png) no-repeat scroll center -13px;
+	background-color: #CA161C;
+	border-radius: 25px;
+	padding: 23px;
+	width: 498px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.card{float:right;overflow:hidden;}
+.para {
+	font-size: 29px;
+	color: #fff;
+	overflow: hidden;
+	line-height: 51px;
+	padding-right: 5px;
+}
+.footer{text-align:center;overflow:hidden;}
+.footer h3 {
+	font-size: 46px;
+	color: #fff;
+}
+
+.footer p{
+	font-size:23px;font-family: 'Dosis', sans-serif;color:#fff;font-weight:normal;
+}
+.footer h4{color:#fff;font-size:30px;}
